@@ -1,0 +1,54 @@
+body{
+    text-align: center;
+}
+
+.btn{
+    height: 200px;
+    width: 200px;
+    border-radius: 20%;
+    border: 0.7rem solid black;
+    margin: 1.5rem;
+}
+
+h1{
+    margin-bottom: 0.5rem;
+}
+
+h2{
+    margin-top: 0;
+    margin-bottom: 0.3rem;
+}
+
+h3{
+    margin-top: 0;
+    margin-bottom: 0.3rem;
+}
+
+.box-container{
+    display: flex;
+    justify-content: center;
+}
+
+.pink{
+    background-color: rgb(240, 129, 148);
+}
+
+.orange{
+    background-color: rgb(248, 190, 83);
+}
+
+.green{
+    background-color: rgb(140, 255, 140);
+}
+
+.blue{
+    background-color: rgb(152, 195, 252);
+}
+
+.gameFlash{
+    background-color: white;
+}
+
+.userFlash{
+    background-color: rgb(118, 133, 122);
+}
